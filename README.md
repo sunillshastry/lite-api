@@ -1,2 +1,3 @@
 # lite-api
-JSON API Specification for the Web
+
+A simple but extensible JSON API specifications for web applications
